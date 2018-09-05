@@ -10,17 +10,17 @@ Draw the route to take to achieve your goals.
 Industrial](https://www.utel.edu.mx/oferta-educativa/licenciaturas-en-linea/ingenieria-industrial)
 
 ## Courses
-  - [[English] [Egghead] Get Started with Reason](https://egghead.io/courses/get-started-with-reason)
-  - [[English] [Egghead] Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
-  - [[English] [Egghead] Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
-  - [[English] [Udemy] Advanced React and Redux](https://www.udemy.com/react-redux-tutorial)
-  - [[English] [Udemy] AWS Certified Solutions Architect - Associate 2018](https://www.udemy.com/aws-certified-solutions-architect-associate)
-  - [[English] [Udemy] Build Apps with React Native](https://www.udemy.com/reactnative)
-  - [[English] [Udemy] Docker Crash Course for busy DevOps and Developers](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers)
-  - [[English] [Udemy] GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course)
-  - [[English] [Udemy] OpenStack: Public & Hybrid IaaS Cloud with OpenStack](https://www.udemy.com/openstack-iaas-cloud-with-open-stack)
-  - [[English] [Udemy] The Complete Ethical Hacking Course](https://www.udemy.com/penetration-testing)
-  - [[English] [Udemy] The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp)
+  - [[Egghead] Get Started with Reason](https://egghead.io/courses/get-started-with-reason)
+  - [[Egghead] Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+  - [[Egghead] Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+  - [[Udemy] Advanced React and Redux](https://www.udemy.com/react-redux-tutorial)
+  - [[Udemy] AWS Certified Solutions Architect - Associate 2018](https://www.udemy.com/aws-certified-solutions-architect-associate)
+  - [[Udemy] Build Apps with React Native](https://www.udemy.com/reactnative)
+  - [[Udemy] Docker Crash Course for busy DevOps and Developers](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers)
+  - [[Udemy] GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course)
+  - [[Udemy] OpenStack: Public & Hybrid IaaS Cloud with OpenStack](https://www.udemy.com/openstack-iaas-cloud-with-open-stack)
+  - [[Udemy] The Complete Ethical Hacking Course](https://www.udemy.com/penetration-testing)
+  - [[Udemy] The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp)
   - [[Spanish] [CodigoFacilito] Curso Bases de Datos en MySQL](https://www.youtube.com/watch?v=PrS4RYiYVi4&list=PLpOqH6AE0tNix8HFnJOBQ8c_5PyPsdZ50)
   - [[Spanish] [CodigoFacilito] Curso de Android](https://www.youtube.com/watch?v=pO7STLF82Ro&list=PLpOqH6AE0tNh5rvbCb03w8ORR8bOoftZ6)
   - [[Spanish] [CodigoFacilito] Curso de C#](https://www.youtube.com/watch?v=pQ6Ezq72J5A&list=PLpOqH6AE0tNhmU9OUbm5FIJtnHAbJ4dKd)
@@ -60,5 +60,5 @@ Industrial](https://www.utel.edu.mx/oferta-educativa/licenciaturas-en-linea/inge
   - [Using recompose to achieve better separation of concerns in React applications](https://medium.com/@cdelaorden/using-recompose-to-achieve-better-separation-of-concerns-in-react-applications-cf7d30721f59)
 
 # Create your own "You"
-- Copy paste this readme into new repo.
-- Personalize the readme with your bio.
+  - Copy paste this readme into new repo.
+  - Personalize the readme with your bio.
